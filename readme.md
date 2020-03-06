@@ -12,6 +12,7 @@
 
 - [Version Managers](#version-managers)
   - [Python](#python)
+  - [NodeJS](#nodejs)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -23,6 +24,10 @@
 ### Python
 
 - [pyenv](https://github.com/pyenv/pyenv)
+
+### NodeJS
+
+- [nvm](https://github.com/nvm-sh/nvm)
 
 
 ## Contribute
