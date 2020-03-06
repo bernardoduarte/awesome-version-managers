@@ -1,30 +1,25 @@
 # Awesome Version Managers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*scaffolding generated with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)*
+*scaffolded with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)*
 
 > A curated list of Version Managers
 
-
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+*generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Version Managers](#version-managers)
+- [Contribute](#contribute)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## Section
+## Version Managers
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+**TODO**
 
 
 ## Contribute
