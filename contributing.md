@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure that the version manager is active
+- You should update the table of contents if needed. Please use
+[DocToc](https://github.com/thlorenz/doctoc)
 
 Thank you for your suggestions!
 
