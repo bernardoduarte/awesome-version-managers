@@ -13,6 +13,7 @@
 - [Version Managers](#version-managers)
   - [Python](#python)
   - [NodeJS](#nodejs)
+  - [Ruby](#ruby)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -28,6 +29,10 @@
 ### NodeJS
 
 - [nvm](https://github.com/nvm-sh/nvm)
+
+### Ruby
+
+- [rbenv](https://github.com/rbenv/rbenv)
 
 
 ## Contribute
