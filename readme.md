@@ -15,6 +15,7 @@
   - [NodeJS](#nodejs)
   - [Ruby](#ruby)
   - [Go](#go)
+  - [Rust](#rust)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -38,6 +39,10 @@
 ### Go
 
 - [gvm](https://github.com/moovweb/gvm)
+
+### Rust
+
+- [rustup](https://github.com/rust-lang/rustup)
 
 
 ## Contribute
