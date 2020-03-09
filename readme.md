@@ -33,6 +33,7 @@
 
 - [nvm](https://github.com/nvm-sh/nvm)
 - [nvm-windows](https://github.com/coreybutler/nvm-windows)
+- [n](https://github.com/tj/n)
 
 ### Ruby
 
