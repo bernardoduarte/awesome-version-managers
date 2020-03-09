@@ -32,6 +32,7 @@
 ### NodeJS
 
 - [nvm](https://github.com/nvm-sh/nvm)
+- [nvm-windows](https://github.com/coreybutler/nvm-windows)
 
 ### Ruby
 
