@@ -54,6 +54,7 @@
 ### Java
 
 - [jenv](https://github.com/jenv/jenv)
+- [jabba](https://github.com/shyiko/jabba)
 
 ### Swift
 
