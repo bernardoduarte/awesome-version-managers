@@ -22,6 +22,7 @@
   - [PHP](#php)
   - [Perl](#perl)
   - [Lua](#lua)
+  - [Elixir](#elixir)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -86,6 +87,10 @@
 
 - [luaver](https://github.com/DhavalKapil/luaver)
 - [lenv](https://github.com/mah0x211/lenv)
+
+### Elixir
+
+- [kiex](https://github.com/taylor/kiex)
 
 
 ## Contribute
