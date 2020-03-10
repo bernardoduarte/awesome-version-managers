@@ -17,6 +17,7 @@
   - [Go](#go)
   - [Rust](#rust)
   - [Java](#java)
+  - [Swift](#swift)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -52,6 +53,10 @@
 ### Java
 
 - [jenv](https://github.com/jenv/jenv)
+
+### Swift
+
+- [swiftenv](https://github.com/kylef/swiftenv)
 
 
 ## Contribute
