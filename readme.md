@@ -11,6 +11,7 @@
 *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Version Managers](#version-managers)
+  - [Generic](#generic)
   - [Python](#python)
   - [NodeJS](#nodejs)
   - [Ruby](#ruby)
@@ -28,6 +29,10 @@
 
 
 ## Version Managers
+
+### Generic
+
+- [anyenv](https://github.com/anyenv/anyenv)
 
 ### Python
 
