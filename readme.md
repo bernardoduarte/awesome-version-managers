@@ -33,6 +33,7 @@
 ### Generic
 
 - [anyenv](https://github.com/anyenv/anyenv)
+- [asdf-vm](https://github.com/asdf-vm/asdf)
 
 ### Python
 
