@@ -20,6 +20,7 @@
   - [Swift](#swift)
   - [PHP](#php)
   - [Perl](#perl)
+  - [Lua](#lua)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -74,6 +75,10 @@
 
 - [perlbrew](https://github.com/gugod/App-perlbrew)
 - [plenv](https://github.com/tokuhirom/plenv)
+
+### Lua
+
+- [luaver](https://github.com/DhavalKapil/luaver)
 
 
 ## Contribute
