@@ -43,6 +43,7 @@
 
 - [rbenv](https://github.com/rbenv/rbenv)
 - [rvm](https://github.com/rvm/rvm)
+- [uru](https://bitbucket.org/jonforums/uru)
 
 ### Go
 
