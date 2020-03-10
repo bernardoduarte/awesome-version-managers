@@ -38,6 +38,7 @@
 - [nvm-windows](https://github.com/coreybutler/nvm-windows)
 - [n](https://github.com/tj/n)
 - [nodenv](https://github.com/nodenv/nodenv)
+- [nvs](https://github.com/jasongin/nvs)
 
 ### Ruby
 
