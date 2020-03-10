@@ -45,6 +45,7 @@
 ### Go
 
 - [gvm](https://github.com/moovweb/gvm)
+- [rodent](https://github.com/alouche/rodent)
 
 ### Rust
 
