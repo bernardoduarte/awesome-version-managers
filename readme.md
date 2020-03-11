@@ -24,6 +24,7 @@
   - [Lua](#lua)
   - [Elixir](#elixir)
   - [Erlang](#erlang)
+  - [Julia](#julia)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -102,6 +103,10 @@
 ### Erlang
 
 - [evm](https://github.com/robisonsantos/evm)
+
+### Julia
+
+- [juliavm](https://github.com/pmargreff/juliavm)
 
 
 ## Contribute
