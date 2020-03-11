@@ -56,6 +56,7 @@
 ### Ruby
 
 - [rbenv](https://github.com/rbenv/rbenv)
+- [rbenv-win](https://github.com/nak1114/rbenv-win)
 - [rvm](https://github.com/rvm/rvm)
 - [uru](https://bitbucket.org/jonforums/uru)
 - [chruby](https://github.com/postmodern/chruby)
