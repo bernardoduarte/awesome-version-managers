@@ -40,6 +40,7 @@
 ### Python
 
 - [pyenv](https://github.com/pyenv/pyenv)
+- [pyenv-win](https://github.com/pyenv-win/pyenv-win)
 - [pyflow](https://github.com/David-OConnor/pyflow)
 - [pythonz](https://github.com/saghul/pythonz)
 
