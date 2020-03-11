@@ -41,6 +41,7 @@
 
 - [pyenv](https://github.com/pyenv/pyenv)
 - [pyflow](https://github.com/David-OConnor/pyflow)
+- [pythonz](https://github.com/saghul/pythonz)
 
 ### NodeJS
 
