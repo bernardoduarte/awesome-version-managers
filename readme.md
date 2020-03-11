@@ -93,6 +93,7 @@
 ### Elixir
 
 - [kiex](https://github.com/taylor/kiex)
+- [exenv](https://github.com/exenv/exenv)
 
 ### Erlang
 
