@@ -23,6 +23,7 @@
   - [Perl](#perl)
   - [Lua](#lua)
   - [Elixir](#elixir)
+  - [Erlang](#erlang)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -92,6 +93,10 @@
 ### Elixir
 
 - [kiex](https://github.com/taylor/kiex)
+
+### Erlang
+
+- [evm](https://github.com/robisonsantos/evm)
 
 
 ## Contribute
