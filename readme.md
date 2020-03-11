@@ -47,6 +47,7 @@
 - [n](https://github.com/tj/n)
 - [nodenv](https://github.com/nodenv/nodenv)
 - [nvs](https://github.com/jasongin/nvs)
+- [nodebrew](https://github.com/hokaccha/nodebrew)
 
 ### Ruby
 
