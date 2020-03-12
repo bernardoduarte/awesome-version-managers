@@ -25,6 +25,7 @@
   - [Elixir](#elixir)
   - [Erlang](#erlang)
   - [Julia](#julia)
+  - [Crystal](#crystal)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -108,6 +109,10 @@
 
 - [juliavm](https://github.com/pmargreff/juliavm)
 - [jlenv](https://github.com/HiroakiMikami/jlenv)
+
+### Crystal
+
+- [crenv](https://github.com/crenv/crenv)
 
 
 ## Contribute
