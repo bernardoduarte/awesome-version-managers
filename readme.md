@@ -27,6 +27,7 @@
   - [Julia](#julia)
   - [Crystal](#crystal)
   - [TypeScript](#typescript)
+  - [Flutter](#flutter)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -118,6 +119,10 @@
 ### TypeScript
 
 - [tvm](https://github.com/watilde/tvm)
+
+### Flutter
+
+- [fvm](https://github.com/leoafarias/fvm)
 
 
 ## Contribute
