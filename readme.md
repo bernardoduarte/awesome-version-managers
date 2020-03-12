@@ -26,6 +26,7 @@
   - [Erlang](#erlang)
   - [Julia](#julia)
   - [Crystal](#crystal)
+  - [TypeScript](#typescript)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -113,6 +114,10 @@
 ### Crystal
 
 - [crenv](https://github.com/crenv/crenv)
+
+### TypeScript
+
+- [tvm](https://github.com/watilde/tvm)
 
 
 ## Contribute
