@@ -29,6 +29,7 @@
   - [TypeScript](#typescript)
   - [Flutter](#flutter)
   - [Scala](#scala)
+  - [Terraform](#terraform)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -128,6 +129,10 @@
 ### Scala
 
 - [svm](https://github.com/yuroyoro/svm)
+
+### Terraform
+
+- [tfenv](https://github.com/tfutils/tfenv)
 
 
 ## Contribute
