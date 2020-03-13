@@ -28,6 +28,7 @@
   - [Crystal](#crystal)
   - [TypeScript](#typescript)
   - [Flutter](#flutter)
+  - [Scala](#scala)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -123,6 +124,10 @@
 ### Flutter
 
 - [fvm](https://github.com/leoafarias/fvm)
+
+### Scala
+
+- [svm](https://github.com/yuroyoro/svm)
 
 
 ## Contribute
