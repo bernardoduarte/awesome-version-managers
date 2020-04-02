@@ -1,4 +1,5 @@
-# Awesome Version Managers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Version Managers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://img.shields.io/travis/bernardoduarte/awesome-version-managers/master.svg?logo=travis)](https://travis-ci.org/bernardoduarte/awesome-version-managers)
+
 
 *scaffolded with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)*
 
