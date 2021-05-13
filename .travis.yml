@@ -1,4 +1,17 @@
-language: ruby
-rvm: 2.4.1
-before_script: gem install awesome_bot
-script: awesome_bot readme.md --allow-redirect
+jobs:
+  include:
+    - language: node_js
+      node_js: 14
+      before_script:
+        - npm install --global awesome-lint
+      script:
+        - awesome-lint
+
+    - language: ruby
+      rvm: 2.4.1
+      before_script:
+        - gem install awesome_bot
+      script:
+        - awesome_bot readme.md --allow-redirect
+git:
+  depth: false
