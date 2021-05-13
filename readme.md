@@ -32,7 +32,6 @@
   - [Scala](#scala)
   - [Terraform](#terraform)
 - [Contribute](#contribute)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -139,9 +138,6 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## License
 
 [![CC-BY-4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
