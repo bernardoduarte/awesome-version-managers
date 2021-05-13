@@ -31,7 +31,6 @@
   - [Flutter](#flutter)
   - [Scala](#scala)
   - [Terraform](#terraform)
-- [Contribute](#contribute)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
