@@ -14,7 +14,7 @@
 - [Version Managers](#version-managers)
   - [Generic](#generic)
   - [Python](#python)
-  - [NodeJS](#nodejs)
+  - [Node.js](#nodejs)
   - [Ruby](#ruby)
   - [Go](#go)
   - [Rust](#rust)
@@ -51,7 +51,7 @@
 - [pyflow](https://github.com/David-OConnor/pyflow)
 - [pythonz](https://github.com/saghul/pythonz)
 
-### NodeJS
+### Node.js
 
 - [nvm](https://github.com/nvm-sh/nvm)
 - [nvm-windows](https://github.com/coreybutler/nvm-windows)
