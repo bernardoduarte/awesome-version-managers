@@ -27,7 +27,6 @@
   - [Erlang](#erlang)
   - [Julia](#julia)
   - [Crystal](#crystal)
-  - [TypeScript](#typescript)
   - [Flutter](#flutter)
   - [Scala](#scala)
   - [Terraform](#terraform)
