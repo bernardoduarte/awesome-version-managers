@@ -1,15 +1,8 @@
 # Awesome Version Managers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
-*scaffolded with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)*
-
 > A curated list of Version Managers
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
-
-*generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Version Managers](#version-managers)
   - [Generic](#generic)
@@ -30,9 +23,6 @@
   - [Flutter](#flutter)
   - [Scala](#scala)
   - [Terraform](#terraform)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 
 ## Version Managers
 
