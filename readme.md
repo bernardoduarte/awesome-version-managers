@@ -46,6 +46,7 @@
 - [nodenv](https://github.com/nodenv/nodenv) - A tool that can automatically select the appropriate node version for a given project and doesn't require shell integration or overriding of builtin commands.
 - [nvs](https://github.com/jasongin/nvs) - A cross-platform utility for switching between different versions and forks of Node.js.
 - [nodebrew](https://github.com/hokaccha/nodebrew) - A simple Node.js version manager.
+- [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
 
 ### Ruby
 
