@@ -40,6 +40,7 @@
 
 ### Node.js
 
+- [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager built in Rust
 - [nvm](https://github.com/nvm-sh/nvm) - A version manager for Node.js, designed to be installed per user, and invoked per shell.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Same of nvm, but for Windows.
 - [n](https://github.com/tj/n) - An interactive manager that has no subshells and no profile setup.
