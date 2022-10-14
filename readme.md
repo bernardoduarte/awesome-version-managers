@@ -61,6 +61,7 @@
 ### Go
 
 - [gvm](https://github.com/moovweb/gvm) - An interface to manage Go versions.
+- [goenv](https://github.com/syndbg/goenv) - Version manager like pyenv and rbenv, but for Go.
 
 ### Rust
 
