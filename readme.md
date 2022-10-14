@@ -23,6 +23,7 @@
   - [Flutter](#flutter)
   - [Scala](#scala)
   - [Terraform](#terraform)
+  - [Solidity](#solidity)
 
 ## Version Managers
 
@@ -120,6 +121,10 @@
 ### Terraform
 
 - [tfenv](https://github.com/tfutils/tfenv) - A Terraform version manager inspired by rbenv.
+
+### Solidity
+
+- [svm-rs](https://github.com/roynalnaruto/svm-rs) - A Solidity compiler version manager made in Rust.
 
 
 ## Contributing
