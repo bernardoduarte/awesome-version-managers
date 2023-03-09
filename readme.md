@@ -96,7 +96,7 @@
 ### Elixir
 
 - [kiex](https://github.com/taylor/kiex) - A utility that allows build and switch between different Elixir versions.
-- [exenv](https://github.com/exenv/exenv) - A Elixir version manager based on rbenv.
+- [exenv](https://github.com/askagirl/exenv-1) - A Elixir version manager based on rbenv.
 
 ### Erlang
 
