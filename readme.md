@@ -49,7 +49,7 @@
 - [nvs](https://github.com/jasongin/nvs) - A cross-platform utility for switching between different versions and forks of Node.js.
 - [nodebrew](https://github.com/hokaccha/nodebrew) - A simple Node.js version manager.
 - [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
-- [chnode](https://github.com/tkareine/chnode) - A lightweight Node.js version switcher that allows for auto-switching by updating the PATH, ispired by chruby.
+- [chnode](https://github.com/tkareine/chnode) - A lightweight Node.js version switcher that allows for auto-switching by updating the PATH, inspired by chruby.
 
 ### Ruby
 
