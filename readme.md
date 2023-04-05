@@ -58,6 +58,7 @@
 - [rvm](https://github.com/rvm/rvm) - A tool that is loaded into the shell, overrides some commands and also manages gemsets.
 - [uru](https://bitbucket.org/jonforums/uru) - A lightweight, multi-platform command line tool that helps you use the multiple rubies, like MRI, JRuby and Rubinius.
 - [chruby](https://github.com/postmodern/chruby) - A Ruby version switcher that allows for auto-switching, updates PATH and has around 100 lines of code.
+- [frum](https://github.com/TaKO8Ki/frum) - A fast and modern Ruby version manager written in Rust that is also cross-platform.
 
 ### Go
 
