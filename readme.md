@@ -31,6 +31,7 @@
 
 - [anyenv](https://github.com/anyenv/anyenv) - A version manager wrapper allowing maintenance of multiple version managers.
 - [asdf-vm](https://github.com/asdf-vm/asdf) - An extendable version manager using a plugin structure to handle new version managers.
+- [rtx](https://github.com/jdxcode/rtx) - An `asdf` drop-in replacement written in Rust
 
 ### Python
 
