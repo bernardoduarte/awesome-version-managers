@@ -46,6 +46,7 @@
 - [nvm](https://github.com/nvm-sh/nvm) - A version manager for Node.js, designed to be installed per user, and invoked per shell.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Same of nvm, but for Windows.
 - [n](https://github.com/tj/n) - An interactive manager that has no subshells and no profile setup.
+- [volta](https://github.com/volta-cli/volta) - A JavaScript tool manager, designed to provide seamless, fully isolated node environments.
 - [nodenv](https://github.com/nodenv/nodenv) - A tool that can automatically select the appropriate node version for a given project and doesn't require shell integration or overriding of builtin commands.
 - [nvs](https://github.com/jasongin/nvs) - A cross-platform utility for switching between different versions and forks of Node.js.
 - [nodebrew](https://github.com/hokaccha/nodebrew) - A simple Node.js version manager.
