@@ -24,6 +24,7 @@
   - [Scala](#scala)
   - [Terraform](#terraform)
   - [Solidity](#solidity)
+  - [Xcode](#xcode)
 
 ## Version Managers
 
@@ -131,6 +132,9 @@
 
 - [svm-rs](https://github.com/roynalnaruto/svm-rs) - A Solidity compiler version manager made in Rust.
 
+### Xcode
+
+- [xcodes](https://github.com/XcodesOrg/xcodes) - A command-line tool to install and switch between multiple versions of Xcode.
 
 ## Contributing
 
