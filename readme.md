@@ -54,6 +54,7 @@
 - [nodebrew](https://github.com/hokaccha/nodebrew) - A simple Node.js version manager.
 - [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
 - [chnode](https://github.com/tkareine/chnode) - A lightweight Node.js version switcher that allows for auto-switching by updating the PATH, inspired by chruby.
+- [pnpm](https://github.com/pnpm/pnpm) - A fast and disk space efficient package manager that can also manage Node.js versions via it's env command.
 
 ### Ruby
 
