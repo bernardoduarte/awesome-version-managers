@@ -27,6 +27,7 @@
   - [Solidity](#solidity)
   - [Xcode](#xcode)
   - [CMake](#cmake)
+  - [Unity](#unity)
 
 ## Version Managers
 
@@ -147,6 +148,10 @@
 ### CMake
 
 - [cvm](https://github.com/ParagonPawns/cmake-version-manager) - A cross platform command-line tool that help manage currently installed versions of CMake.
+
+### Unity
+
+- [uvm](https://github.com/Larusso/unity-version-manager) - A tool which allows to install and manage multiple Unity versions on a system from the command-line that is also compatible with Unity-Hub.
 
 ## Contributing
 
