@@ -26,6 +26,7 @@
   - [Terraform](#terraform)
   - [Solidity](#solidity)
   - [Xcode](#xcode)
+  - [CMake](#cmake)
 
 ## Version Managers
 
@@ -142,6 +143,10 @@
 ### Xcode
 
 - [xcodes](https://github.com/XcodesOrg/xcodes) - A command-line tool to install and switch between multiple versions of Xcode.
+
+### CMake
+
+- [cvm](https://github.com/ParagonPawns/cmake-version-manager) - A cross platform command-line tool that help manage currently installed versions of CMake.
 
 ## Contributing
 
