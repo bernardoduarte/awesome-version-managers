@@ -28,6 +28,7 @@
   - [Xcode](#xcode)
   - [CMake](#cmake)
   - [Unity](#unity)
+  - [Godot](#godot)
 
 ## Version Managers
 
@@ -152,6 +153,10 @@
 ### Unity
 
 - [uvm](https://github.com/Larusso/unity-version-manager) - A tool which allows to install and manage multiple Unity versions on a system from the command-line that is also compatible with Unity-Hub.
+
+### Godot
+
+- [Godots](https://github.com/MakovWait/godots) - An app that manages your Godot versions and projects with support for all platforms while also allowing for theming.
 
 ## Contributing
 
