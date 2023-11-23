@@ -158,6 +158,7 @@
 
 - [Godots](https://github.com/MakovWait/godots) - An app that manages your Godot versions and projects with support for all platforms while also allowing for theming.
 - [Godot Manager](https://github.com/eumario/godot-manager) - An app made in C# that can manage the engine versions of Godot from the official Github repository, as well as getting updates from new releases.
+- [Hourglass](https://gitlab.com/jwestman/hourglass) - A project manager that can also manage multiple versions of Godot engine with just a few clicks and that supports custom engine builds.
 
 ## Contributing
 
