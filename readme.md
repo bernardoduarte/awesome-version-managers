@@ -29,6 +29,7 @@
   - [CMake](#cmake)
   - [Unity](#unity)
   - [Godot](#godot)
+  - [R](#r)
 
 ## Version Managers
 
@@ -160,6 +161,10 @@
 - [Godot Manager](https://github.com/eumario/godot-manager) - An app made in C# that can manage the engine versions of Godot from the official Github repository, as well as getting updates from new releases.
 - [Hourglass](https://gitlab.com/jwestman/hourglass) - A project manager that can also manage multiple versions of Godot engine with just a few clicks and that supports custom engine builds.
 - [GVM](https://github.com/noidexe/godot-version-manager) - A simple app that can install and remove any version of Godot, even the alpha, beta, rc and dev versions.
+
+### R
+
+- [rig](https://github.com/r-lib/rig) - A cross platform R version manager with no system requirements on any platform. 
 
 ## Contributing
 
