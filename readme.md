@@ -146,6 +146,7 @@
 ### Xcode
 
 - [xcodes](https://github.com/XcodesOrg/xcodes) - A command-line tool to install and switch between multiple versions of Xcode.
+- [Xcodes.app](https://github.com/XcodesOrg/XcodesApp) - An app that offers the easiest way to install and switch between multiple versions of Xcode.
 
 ### CMake
 
