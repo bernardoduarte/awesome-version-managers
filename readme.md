@@ -171,6 +171,7 @@
 ### Zig
 
 - [zvm](https://github.com/tristanisham/zvm) - A version manager made in Go that works on Linux, BSD, MacOS, *nix systems including Windows.
+- [zigup](https://github.com/marler8997/zigup) - A Zig version manager made entirely with Zig.
 
 ## Contributing
 
