@@ -30,6 +30,7 @@
   - [Unity](#unity)
   - [Godot](#godot)
   - [R](#r)
+  - [Zig](#zig)
 
 ## Version Managers
 
@@ -165,7 +166,11 @@
 
 ### R
 
-- [rig](https://github.com/r-lib/rig) - A cross platform R version manager with no system requirements on any platform. 
+- [rig](https://github.com/r-lib/rig) - A cross platform R version manager with no system requirements on any platform.
+
+### Zig
+
+- [zvm](https://github.com/tristanisham/zvm) - A version manager made in Go that works on Linux, BSD, MacOS, *nix systems including Windows.
 
 ## Contributing
 
