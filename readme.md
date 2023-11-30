@@ -31,6 +31,7 @@
   - [Godot](#godot)
   - [R](#r)
   - [Zig](#zig)
+  - [Neovim](#neovim)
 
 ## Version Managers
 
@@ -172,6 +173,10 @@
 
 - [zvm](https://github.com/tristanisham/zvm) - A version manager made in Go that works on Linux, BSD, MacOS, *nix systems including Windows.
 - [zigup](https://github.com/marler8997/zigup) - A Zig version manager made entirely with Zig.
+
+### Neovim
+
+- [bob](https://github.com/MordechaiHadad/bob) - A cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions right from the command line.
 
 ## Contributing
 
