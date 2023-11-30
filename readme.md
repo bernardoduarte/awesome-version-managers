@@ -94,6 +94,7 @@
 ### Swift
 
 - [swiftenv](https://github.com/kylef/swiftenv) - A Swift manager that changes version per user, set a per-project version and allows you to override the version with an environmental variable.
+- [swiftly](https://github.com/swift-server/swiftly) - A CLI tool for installing, managing, and switching between Swift toolchains, written in Swift.
 
 ### PHP
 
