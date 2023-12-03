@@ -32,6 +32,7 @@
   - [R](#r)
   - [Zig](#zig)
   - [Neovim](#neovim)
+  - [Lean](#lean)
 
 ## Version Managers
 
@@ -180,6 +181,10 @@
 ### Neovim
 
 - [bob](https://github.com/MordechaiHadad/bob) - A cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions right from the command line.
+
+### Lean
+
+- [elan](https://github.com/leanprover/elan) - A small tool for managing your installations of the Lean theorem prover that is also the recommended way to set up in their documentation.  
 
 ## Contributing
 
