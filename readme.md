@@ -90,6 +90,7 @@
 - [jenv](https://github.com/linux-china/jenv) - A cross-platform tool for managing parallel Versions of JDKs which allows for installing, switching, removing and listing candidates.
 - [jEnv](https://github.com/jenv/jenv) - A version switcher for Java that does not handle installation. 
 - [jabba](https://github.com/shyiko/jabba) - A cross-platform Java manager that allows for installation and switching of JDKs.
+- [jvms](https://github.com/ystyle/jvms) - A JDK version manager for Windows made in Go.
 
 ### JVM
 - [SDKMAN!](https://github.com/sdkman/sdkman-cli) - Install Software Development Kits for the JVM such as Java, Scala, Kotlin and Groovy. Ant, Gradle, Grails, Maven, SBT, Spark, Spring Boot, Vert.x and many others also supported.
