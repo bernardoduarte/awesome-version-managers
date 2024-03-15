@@ -143,8 +143,10 @@
 - [svm](https://github.com/yuroyoro/svm) - A version manager that switches and installs multiple Scala versions.
 
 ### Terraform
+### OpenTofu
 
 - [tfenv](https://github.com/tfutils/tfenv) - A Terraform version manager inspired by rbenv.
+- [tofuenv](https://github.com/tofuutils/tofuenv) - A OpenTofu version manager inspired by tfenv.
 
 ### Solidity
 
