@@ -44,6 +44,7 @@
 - [asdf-vm](https://github.com/asdf-vm/asdf) - An extendable version manager using a plugin structure to handle new version managers.
 - [mise](https://github.com/jdx/mise) - An `asdf` drop-in replacement written in Rust.
 - [proto](https://github.com/moonrepo/proto) - A pluggable next-generation version manager for multiple programming languages as unified toolchain.
+- [vfox](https://github.com/version-fox/vfox) - A cross-platform, extensible version manager. It supports native Windows and Unix-like.
 
 ### Python
 
