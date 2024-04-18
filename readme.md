@@ -45,6 +45,7 @@
 - [mise](https://github.com/jdx/mise) - An `asdf` drop-in replacement written in Rust.
 - [proto](https://github.com/moonrepo/proto) - A pluggable next-generation version manager for multiple programming languages as unified toolchain.
 - [vfox](https://github.com/version-fox/vfox) - A cross-platform, extensible version manager. It supports native Windows and Unix-like.
+- [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
 ### Python
 
