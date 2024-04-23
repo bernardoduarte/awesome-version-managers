@@ -45,6 +45,7 @@
 - [mise](https://github.com/jdx/mise) - An `asdf` drop-in replacement written in Rust.
 - [proto](https://github.com/moonrepo/proto) - A pluggable next-generation version manager for multiple programming languages as unified toolchain.
 - [vfox](https://github.com/version-fox/vfox) - A cross-platform, extensible version manager. It supports native Windows and Unix-like.
+- [woof](https://github.com/version-manager/woof) - A Bash-based version manager with plugin support optimized for UX
 - [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
 ### Python
@@ -92,11 +93,12 @@
 ### Java
 
 - [jenv](https://github.com/linux-china/jenv) - A cross-platform tool for managing parallel Versions of JDKs which allows for installing, switching, removing and listing candidates.
-- [jEnv](https://github.com/jenv/jenv) - A version switcher for Java that does not handle installation. 
+- [jEnv](https://github.com/jenv/jenv) - A version switcher for Java that does not handle installation.
 - [jabba](https://github.com/shyiko/jabba) - A cross-platform Java manager that allows for installation and switching of JDKs.
 - [jvms](https://github.com/ystyle/jvms) - A JDK version manager for Windows made in Go.
 
 ### JVM
+
 - [SDKMAN!](https://github.com/sdkman/sdkman-cli) - Install Software Development Kits for the JVM such as Java, Scala, Kotlin and Groovy. Ant, Gradle, Grails, Maven, SBT, Spark, Spring Boot, Vert.x and many others also supported.
 
 ### Swift
@@ -107,7 +109,7 @@
 ### PHP
 
 - [phpbrew](https://github.com/phpbrew/phpbrew) - A utility that builds and installs multiple version of PHP in your HOME directory allowing of switching between them.
-- [phpenv](https://github.com/phpenv/phpenv) - A version manager that operates binaries on the user directory and utilizes shims. 
+- [phpenv](https://github.com/phpenv/phpenv) - A version manager that operates binaries on the user directory and utilizes shims.
 
 ### Perl
 
@@ -137,7 +139,6 @@
 
 - [crenv](https://github.com/crenv/crenv) - A Crystal version manager based on rbenv.
 
-
 ### Flutter
 
 - [fvm](https://github.com/leoafarias/fvm) - A version manager allowing to reference Flutter SDK version on a per-project basis, allows you to have multiple versions installed.
@@ -147,6 +148,7 @@
 - [svm](https://github.com/yuroyoro/svm) - A version manager that switches and installs multiple Scala versions.
 
 ### Terraform
+
 ### OpenTofu
 
 - [tfenv](https://github.com/tfutils/tfenv) - A Terraform version manager inspired by rbenv.
