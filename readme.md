@@ -129,6 +129,7 @@
 ### Erlang
 
 - [evm](https://github.com/robisonsantos/evm) - A tool that allows you to install multiple versions of erlang on your system and switch between them.
+- [kerl](https://github.com/kerl/kerl) - A POSIX shell tool for building and installing Erlang/OTP instances allowing for easy switches between those installations.
 
 ### Julia
 
