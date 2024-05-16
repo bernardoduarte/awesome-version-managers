@@ -47,6 +47,7 @@
 - [vfox](https://github.com/version-fox/vfox) - A cross-platform, extensible version manager. It supports native Windows and Unix-like.
 - [woof](https://github.com/version-manager/woof) - A Bash-based version manager with plugin support optimized for UX
 - [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [pkgx](https://github.com/pkgxdev/pkgx) - A blazingly fast, standalone, cross‐platform binary that runs anything in any version with zero system impact.
 
 ### Python
 
