@@ -48,6 +48,7 @@
 - [woof](https://github.com/version-manager/woof) - A Bash-based version manager with plugin support optimized for UX
 - [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [pkgx](https://github.com/pkgxdev/pkgx) - A blazingly fast, standalone, cross‐platform binary that runs anything in any version with zero system impact.
+- [vmr](https://github.com/gvcgo/version-manager) - A simple, cross-platform, and well-tested version manager for programming languages and tools.
 
 ### Python
 
