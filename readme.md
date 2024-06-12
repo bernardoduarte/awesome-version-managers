@@ -86,6 +86,7 @@
 - [gvm](https://github.com/moovweb/gvm) - An interface to manage Go versions.
 - [goenv](https://github.com/syndbg/goenv) - Version manager like pyenv and rbenv, but for Go.
 - [g](https://github.com/stefanmaric/g) - A simples Go version manager inspired by `n`.
+- [g](https://github.com/voidint/g) - A command-line tool for Linux, macOS, and Windows that provides convenient management and switching of multiple versions of the Go environment.
 - [goup](https://github.com/owenthereal/goup) - An elegant version manager written in Go that is installed with a one-liner and that work well on all Linux distros.
 
 ### Rust
