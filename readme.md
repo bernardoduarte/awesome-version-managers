@@ -153,9 +153,10 @@
 
 ### Terraform
 
+- [tfenv](https://github.com/tfutils/tfenv) - A Terraform version manager inspired by rbenv.
+
 ### OpenTofu
 
-- [tfenv](https://github.com/tfutils/tfenv) - A Terraform version manager inspired by rbenv.
 - [tofuenv](https://github.com/tofuutils/tofuenv) - A OpenTofu version manager inspired by tfenv.
 - [tenv](https://github.com/tofuutils/tenv) - A versatile version manager for OpenTofu, Terraform and Terragrunt, written in Go.
 
