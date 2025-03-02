@@ -34,6 +34,7 @@
   - [Zig](#zig)
   - [Neovim](#neovim)
   - [Lean](#lean)
+  - [D](#d)
 
 ## Version Managers
 
@@ -199,7 +200,12 @@
 
 ### Lean
 
-- [elan](https://github.com/leanprover/elan) - A small tool for managing your installations of the Lean theorem prover that is also the recommended way to set up in their documentation.  
+- [elan](https://github.com/leanprover/elan) - A small tool for managing your installations of the Lean theorem prover that is also the recommended way to set up in their documentation.
+
+### D
+
+- [ldcup](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
+- [dvm](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
 
 ## Contributing
 
