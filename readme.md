@@ -155,6 +155,7 @@
 ### Terraform
 
 - [tfenv](https://github.com/tfutils/tfenv) - A Terraform version manager inspired by rbenv.
+- [tfm (Terraform install)(https://github.com/joglomedia/terraform-install) - A Bash script to automate install and manage different versions of Terraform, inspired by nvm.
 
 ### OpenTofu
 
