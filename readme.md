@@ -50,6 +50,7 @@
 - [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [pkgx](https://github.com/pkgxdev/pkgx) - A blazingly fast, standalone, cross‐platform binary that runs anything in any version with zero system impact.
 - [vmr](https://github.com/gvcgo/version-manager) - A simple, cross-platform, and well-tested version manager for programming languages and tools.
+- [Linguo](https://linguo.run) - Linguo is a cross-platform runtime, package, and project manager for Python, Node.js, Ruby, PHP, Rust, Go, Zig, the JVM stack, and Terraform/OpenTofu. Pin versions, install toolchains, and run project workflows with the same CLI everywhere.
 
 ### Python
 
